@@ -1,6 +1,4 @@
-# nuxt-cli-test
-
-> My dandy Nuxt.js project
+# Firebase Blog with Nuxt.js
 
 ## Preprocess
 
